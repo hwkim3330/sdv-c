@@ -23,6 +23,11 @@
 - **버전**: Version 4 Beta 1
 - **내용**: 디바이스 추상화 API 인터페이스 사양
 
+### 3. 중국 SDV 표준 소개 (KETI)
+- **파일명**: `중국SDV표준 소개_KETI 박부식0826.pptx`
+- **작성자**: KETI 박부식
+- **내용**: 중국 SDV 표준화 전략과 API 구조 분석 (23 슬라이드)
+
 ## 🛠️ 설치 및 실행
 
 ### 필요 조건
@@ -60,27 +65,32 @@ python create_presentation.py
 
 생성된 `SDV_Presentation.pptx` 파일을 확인하세요.
 
-## 📊 생성된 프레젠테이션 구조
+## 📊 생성된 프레젠테이션 파일
 
-1. **제목 슬라이드**
-   - SDV (Software-Defined Vehicle)
-   - 개념 및 표준화 동향 분석
+### 자동 생성 프레젠테이션
 
-2. **문서 개요**
-   - 포함된 문서 목록
-   - 각 문서의 페이지 수
+1. **SDV_Presentation.pptx**
+   - PDF 문서 자동 분석 결과
+   - 목차별 구조화
 
-3. **한국어 문서 섹션**
-   - SDV 개념 설명
-   - 표준화 동향 분석
+2. **중국SDV표준_소개_KETI_박부식0826_수정본.pptx**
+   - KETI 원본 개선판
+   - Executive Summary 추가
+   - 한국 산업 대응 전략 포함
 
-4. **중국어 사양 문서**
-   - Part 1: Atomic Service API
-   - Part 2: Device Abstraction API
+3. **SDV_종합분석_보고서.pptx** (28 슬라이드)
+   - 완전한 SDV 분석 보고서
+   - Part 1: SDV 개념 및 시장 전망
+   - Part 2: 글로벌 표준화 현황
+   - Part 3: 중국 SDV 표준 심층 분석  
+   - Part 4: 기술 비교 분석
+   - Part 5: 한국 대응 전략
+   - 예산 계획 및 성공 지표
 
-5. **요약 및 결론**
-   - 주요 내용 정리
-   - 향후 발전 방향
+4. **SDV_기술심화_분석.pptx**
+   - 기술 아키텍처 상세
+   - API 설계 패턴
+   - 보안 아키텍처
 
 ## 🚀 주요 기능
 
